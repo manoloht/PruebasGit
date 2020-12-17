@@ -1,4 +1,4 @@
-//Creado desde pers1
+//Creado desde pers1 y modificado desde pers2
 class PruebasGit 
 { 
     public static void main(String[] args) 
